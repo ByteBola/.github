@@ -25,5 +25,6 @@ Se você está interessado em contribuir com nossos projetos . Fique à vontade 
 
 Você pode entrar em contato conosco através do seguinte email: 
 
-![gifffff](https://github.com/ByteBola/.github/assets/100390250/e0fc38aa-8f82-4694-bc4c-5bdf99e77c45)
+![a](https://github.com/ByteBola/.github/assets/100390250/dcade393-5820-4201-87a5-2b964d5f055b)
+
 
