@@ -15,7 +15,6 @@ Confira abaixo alguns dos nossos principais projetos:
 
 1. TravelMatePará(https://github.com/ByteBola/site_TravelMatePara) - Projeto desenvolvido em um Hackathon .
 2. VER-O-BANK(https://github.com/ByteBola/app_VER-O-BANK) - Aplicativo financeiro.
-3. ...
 
 ## Como Contribuir
 
